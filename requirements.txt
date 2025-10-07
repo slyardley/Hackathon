@@ -1,0 +1,6 @@
+sunpy[all]
+sunpy-soar
+sunraster
+pyspedas
+pfsspy
+streamtracer
